@@ -1,0 +1,5 @@
+/.mesh/
+/node_modules/
+/.prettier/
+/.DS_Store/
+/.eslintrc.json/

@@ -1,0 +1,6 @@
+query GetNasaNeoFeed($startDate: String!, $endDate: String!) {
+  nasaNeoFeed(startDate: $startDate, endDate: $endDate) {
+    element_count
+    near_earth_objects
+  }
+}
